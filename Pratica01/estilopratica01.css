@@ -1,0 +1,20 @@
+body{
+    background-image: url(1291921.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+form{
+    background-color: aliceblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"]
+{
+    width: 100%;
+}
